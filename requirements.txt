@@ -1,8 +1,7 @@
 # Web
-beautifulsoup4
-lxml
-requests
+edgartools
+sec-edgar-downloader
 
 # Data
 pandas
-tabulate
+packaging

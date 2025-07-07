@@ -1,4 +1,7 @@
 {
+  "edgar": "M:\\CACHE\\EDGAR",
+  "etfs": "M:\\CACHE\\etfs",
   "mappings": "M:\\CACHE\\sec_mappings",
-  "filings": "M:\\CACHE\\sec_filings"
+  "filings": "M:\\CACHE\\EDGAR\\sec-edgar-filings",
+  "details": "M:\\CACHE\\sec_filings\\details"
 }
